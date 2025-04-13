@@ -43,7 +43,6 @@
                 </td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Offers a suite of AI-powered tools aimed at assisting users with creative writing tasks. This likely includes features such as plot idea generators, character creators, dialogue writers, story starters, and more. It's particularly beneficial for writers, screenwriters, game developers, and content creators seeking to overcome writer's block, brainstorm new ideas rapidly, or generate foundational content for novels, games, scripts, and other projects.</td>
             </tr>
-
                             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">AI Korean Comic</td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
@@ -51,6 +50,5 @@
                 </td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Upload your photo and our AI will instantly transform it into an amazing Korean comic style illustration.</td>
             </tr>
-            
         </tbody>
     </table>
