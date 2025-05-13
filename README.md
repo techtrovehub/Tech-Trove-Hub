@@ -50,5 +50,27 @@
                 </td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Upload your photo and our AI will instantly transform it into an amazing Korean comic style illustration.</td>
             </tr>
+                <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">AI Korean Comic</td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://aistorygenerator.tools" target="_blank" style="color: #0066cc; text-decoration: none;">https://aikoreancomic.com/</a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Upload your photo and our AI will instantly transform it into an amazing Korean comic style illustration.</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">AI Ghibli Generator</td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://www.aighibligenerator.me/" target="_blank" style="color: #0066cc; text-decoration: none;">https://www.aighibligenerator.me/</a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Instantly turn your photos and text into magical Studio Ghibli-style art with the advanced AI Ghibli Generator.</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">ジブリ風</td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://aistorygenerator.tools" target="_blank" style="color: #0066cc; text-decoration: none;">https://ghiblifu.com/</a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">最新のAI技術で、あなたの写真やイラストをジブリ風に変換。簡単操作で、誰でも手軽にジブリ作品のような温かみのある画像を生成できます。</td>
+            </tr>
         </tbody>
     </table>
+    
