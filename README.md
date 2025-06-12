@@ -71,6 +71,27 @@
                 </td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">最新のAI技術で、あなたの写真やイラストをジブリ風に変換。簡単操作で、誰でも手軽にジブリ作品のような温かみのある画像を生成できます。</td>
             </tr>
+               <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">SuperMaker AI/td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://supermaker.ai/" target="_blank" style="color: #0066cc; text-decoration: none;">https://supermaker.ai/</a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Elevate your brand with premium visuals. The professional quality of videos produced with SuperMaker AI instantly communicates value and credibility, leaving a lasting impression on clients.</td>
+            </tr>
+               <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">OpenL Translator</td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://openl.ai/" target="_blank" style="color: #0066cc; text-decoration: none;">https://openl.ai//a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">OpenL offers accurate AI translation for documents, voice, and text. Enjoy a clean, ad-free interface and 10 free uses every day. No sign-up required. Click here!</td>
+            </tr>
+               <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">A Break</td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://takeabreak.me" target="_blank" style="color: #0066cc; text-decoration: none;">https://takeabreak.me</a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Let Takeabreak.me guide you through a short break with activities made to enhance mental clarity.</td>
+            </tr>
         </tbody>
     </table>
     
