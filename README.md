@@ -72,7 +72,7 @@
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">最新のAI技術で、あなたの写真やイラストをジブリ風に変換。簡単操作で、誰でも手軽にジブリ作品のような温かみのある画像を生成できます。</td>
             </tr>
                <tr>
-                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">SuperMaker AI/td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">SuperMaker AI</td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
                     <a href="https://supermaker.ai/" target="_blank" style="color: #0066cc; text-decoration: none;">https://supermaker.ai/</a>
                 </td>
