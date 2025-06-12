@@ -81,7 +81,7 @@
                <tr>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">OpenL Translator</td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
-                    <a href="https://openl.ai/" target="_blank" style="color: #0066cc; text-decoration: none;">https://openl.ai//a>
+                    <a href="https://openl.ai/" target="_blank" style="color: #0066cc; text-decoration: none;">https://openl.ai/</a>
                 </td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">OpenL offers accurate AI translation for documents, voice, and text. Enjoy a clean, ad-free interface and 10 free uses every day. No sign-up required. Click here!</td>
             </tr>
