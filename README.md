@@ -92,6 +92,13 @@
                 </td>
                 <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Let Takeabreak.me guide you through a short break with activities made to enhance mental clarity.</td>
             </tr>
+                           <tr>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">AI Tools Directory</td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">
+                    <a href="https://www.aibesttop.com/" target="_blank" style="color: #0066cc; text-decoration: none;">https://www.aibesttop.com/</a>
+                </td>
+                <td style="border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top;">Aibesttop is a comprehensive open-source directory for discovering top AI tools. It provides a curated list</td>
+            </tr>
         </tbody>
     </table>
     
